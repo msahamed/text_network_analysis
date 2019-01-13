@@ -3,7 +3,6 @@ MANIFEST
 build
 dist
 _build
-*.csv
 *.json
 .~lock.reduced_review.csv#
 docs/source/interactive/magics-generated.txt
@@ -24,5 +23,3 @@ __pycache__
 .cache
 .coverage
 *.swp
-sudhir_notebook.ipynb
-predict_driver-Copy1.ipynb
