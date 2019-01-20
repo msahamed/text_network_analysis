@@ -8,6 +8,7 @@ _build
 docs/source/interactive/magics-generated.txt
 docs/source/config/shortcuts/*.csv
 docs/gh-pages
+graph_analysis_old.ipynb
 jupyter_notebook/notebook/static/mathjax
 jupyter_notebook/static/style/*.map
 *.py[co]
